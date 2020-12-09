@@ -1,5 +1,6 @@
 # Crisp Minimal Résumé
 
+
 <p align="center">
   <img src="screenshots/resume-desktop.png" width="578" />
   <img src="screenshots/resume-mobile.png" width="220" />
